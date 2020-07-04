@@ -1,0 +1,4 @@
+[submodule "auth-holiexpress-api"]
+	path = auth-holiexpress-api
+	url = https://github.com/DanSilva41/auth-holiexpress-api.git
+	branch = develop
