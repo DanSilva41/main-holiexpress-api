@@ -2,3 +2,7 @@
 	path = auth-holiexpress-api
 	url = https://github.com/DanSilva41/auth-holiexpress-api
 	branch = develop
+[submodule "common-holiexpress-api"]
+	path = common-holiexpress-api
+	url = https://github.com/DanSilva41/common-holiexpress-api
+	branch = develop

@@ -8,3 +8,5 @@
  */
 
 rootProject.name = "main-holiexpress-api"
+include("auth-holiexpress-api")
+include("common-holiexpress-api")
